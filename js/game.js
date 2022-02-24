@@ -50,7 +50,7 @@ class Game {
     
       
       background("#263238");
-      image(trackimg, 0, -displayHeight * 4, displayWidth, displayHeight * 5);
+      image(trackimg, 0, -height * 4, width, height * 5);
       
     
 
